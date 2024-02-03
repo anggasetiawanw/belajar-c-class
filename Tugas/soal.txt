@@ -1,0 +1,7 @@
+coba belahar for loop sama while loop ya sama switch case. 
+paling async aja ya. 
+coba buatkan program memuncal nilai ganjil 1-100
+terus juga nilai genap 1-100
+
+lalu kreasi se kreatif kalian, buatkan program kasir bisa membeli dengan multiple jenis barang, 
+dan jika suatu kondisi mendapatkan diskon
